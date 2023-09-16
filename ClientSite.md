@@ -1,9 +1,9 @@
-*This site will be regularly updated with the client project information.*
+This site will be regularly updated with the client project information.
 
-**Client Team:**
+Client Team:
 
-**Project Name:**
+Project Name:
 
-**Project Description:**
+Project Description:
 
-**Requirements:**
+Requirements:
