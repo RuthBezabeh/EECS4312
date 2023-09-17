@@ -3,7 +3,7 @@ Group Members:
 2. Nobaiha Zaman Rayta
 3. Sayed Mohammed
 4. Khwaish Thakkar
-5. Inder
+5. Inderpreet Gill
 6. Riya Shukla
 
 Project Name:
