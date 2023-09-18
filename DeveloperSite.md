@@ -1,4 +1,6 @@
-Group Members:
+Clients: 
+
+Developer Group Members:
 1. Ruth Bezabeh
 2. Nobaiha Zaman Rayta
 3. Sayed Mohammed
