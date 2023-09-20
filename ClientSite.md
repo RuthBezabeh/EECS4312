@@ -7,6 +7,7 @@ Clients:
 4. Khwaish Thakkar
 5. Inderpreet Gill
 6. Riya Shukla
+7. John Ninan
 
 Developers: 
 
